@@ -1,1 +1,3 @@
-# superbooth
+# Superbooths
+
+Coming soon.
