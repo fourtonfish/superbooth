@@ -1,0 +1,26 @@
+{
+  "name": "glitch-secret",
+  "version": "0.0.1",
+  "description": "Shh...",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "express": "^4.10.2",
+    "express-handlebars": "^2.0.1",
+    "hbs": "^3.0.1",
+    "request": "^2.62.0"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "secret"
+  ]
+}
